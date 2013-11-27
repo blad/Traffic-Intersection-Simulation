@@ -1,8 +1,9 @@
 from __future__ import division
 from visual import *
-
-
-
+'''
+  This Script Requires that VisualPython be installed in order to 
+  run. To Download Visual Python visit: http://www.vpython.org/
+'''
 def main():
     '''Configurations'''
     yLimitBottom = 0
